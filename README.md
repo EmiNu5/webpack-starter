@@ -3,6 +3,7 @@
     Este es el proyecto inicial webpack
 
     ###Notas:
+    ```
     Recordar reconstruir los modulos Node
     ```
     npm install
